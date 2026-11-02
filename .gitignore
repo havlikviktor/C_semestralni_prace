@@ -1,0 +1,69 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared libraries (so, dll, dylib)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+Semestralni_prace_C
+Semestralni_prace_C.exe
+
+# Build directories
+build/
+bin/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.ninja
+.ninja_*
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.cbp
+*.workspace
+*.layout
+
+# Test / execution outputs
+vysledky*
+*.log
+
+# source data
+data/*
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
